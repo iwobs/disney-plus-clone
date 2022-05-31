@@ -87,7 +87,6 @@ const Background = styled.div`
 const ImageTitle = styled.div`
   align-items: flex-end;
   display: flex;
-  -webkit-box-pack: start;
   justify-content: flex-start;
   margin: 0px auto;
   height: 30vw;
